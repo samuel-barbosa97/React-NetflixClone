@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-   Projeto de ReactJS, sendo um clone de uma da página de streaming do NetFlix.<br />
+   Projeto em ReactJS, trabalhando em um clone da página de streaming do Netflix.<br />
     Neste projeto foi consumida uma API externa do site <strong><a href="https://www.themoviedb.org/" target="_blank">Themoviedb.com</a></strong> para exibição dos filmes e séries, utilizando-se das manipulações de estados com o useState do React.
 </p>
 
@@ -22,7 +22,7 @@
 
 <div align="left">
 
-## Tecnologias usadas:
+## Tecnologias utilizadas:
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
