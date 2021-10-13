@@ -11,7 +11,7 @@ NetFlix Clone
 
 <p align="center">
     Clique no link a seguir para acessar a aplicação: 
-    <strong><a href="https://react-netflix-clone-wheat.vercel.app/" target="_blank">netflixclone.vercel.app</a></strong>
+    <strong><a href="https://react-netflix-clone-wheat.vercel.app/" target="_blank">react-netflix-clone-wheat.vercel.app</a></strong>
 </p>
 
 <p align="center">
@@ -25,15 +25,9 @@ NetFlix Clone
 
 ## 🚀 Tecnologias usadas:
 
-✔️ ReactJS
-
-✔️ JSX
-
-✔️ CSS
-
-✔️ JavaScript
-
-✔️ API TMDB
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </div>
 
