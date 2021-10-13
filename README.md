@@ -6,12 +6,11 @@
         width="120"
     />
 <br>
-Netflix Clone
 </h1>
 
 <p align="left">
     Clique no link a seguir para acessar a aplicação: 
-    <strong><a href="https://react-netflix-clone-wheat.vercel.app/" target="_blank">react-netflix-clone-wheat.vercel.app</a></strong>
+    <strong><a href="https://react-netflix-clone-wheat.vercel.app/" target="_blank">React Netflix Clone</a></strong>
 </p>
 
 <p align="left">
@@ -35,7 +34,7 @@ Netflix Clone
 
 <div align="left">
 <br/>
-    Direitos de imagem para Netflix<br/>
-    Dados pegos do site Themoviedb.org
+    Direitos de imagem Netflix<br/>
+    Dados retirados do Themoviedb.org
 </div>
 
