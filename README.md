@@ -5,7 +5,7 @@ width="120px" />
 </h1>
 
 <h3 align="center">
-  Linktree
+  Netflix Clone
 </h3>
 
 <p align="center">Projeto em ReactJS, trabalhando em um clone da página de streaming do Netflix.
