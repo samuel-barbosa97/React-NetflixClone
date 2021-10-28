@@ -1,40 +1,27 @@
-<h1 align="left">
-<br>
-    <img 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png" 
-        alt="Netflix" 
-        width="120"
-    />
-<br>
+
+<h1 align="center">
+<img alt="Netflix" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png"
+width="120px" />
 </h1>
 
-<p align="left">
-    Clique no link a seguir para acessar a aplicação: 
-    <strong><a href="https://react-netflix-clone-wheat.vercel.app/" target="_blank">React Netflix Clone</a></strong>
-</p>
+<h3 align="center">
+  Linktree
+</h3>
 
-<p align="left">
-   Projeto em ReactJS, trabalhando em um clone da página de streaming do Netflix.<br />
-    Neste projeto foi consumida uma API externa do site <strong><a href="https://www.themoviedb.org/" target="_blank">Themoviedb.com</a></strong> para exibição dos filmes e séries, utilizando-se das manipulações de estados com o useState do React.
-</p>
+<p align="center">Projeto em ReactJS, trabalhando em um clone da página de streaming do Netflix.
+Neste projeto foi consumida uma API externa do site Themoviedb.com para exibição dos filmes e séries, utilizando-se das manipulações de estados com o useState do React.</p>
 
-<hr />
+## 🚀 Tecnologias
 
-<div align="left">
+- 💡 React
+- ⚡ Javascript
+- 🕹 Html
+- 🏗 Css 
 
-## Tecnologias utilizadas:
+## ✋🏻 Pré-requisitos
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+- [The Movie Database](https://www.themoviedb.org/?language=pt-BR)
 
-</div>
+## 📝 Licença
 
-<hr />
-
-<div align="left">
-<br/>
-    Direitos de imagem Netflix<br/>
-    Dados retirados do Themoviedb.org
-</div>
-
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
