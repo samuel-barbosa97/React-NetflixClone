@@ -1,26 +1,28 @@
 
 <h1 align="center">
-<img alt="Netflix" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png"
+<img alt="SpringBoot" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot&psig=AOvVaw0BHbdO-4Gj5nzxuC_Vu-zX&ust=1641996746568000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJis3drwqfUCFQAAAAAdAAAAABAD"
 width="120px" />
 </h1>
 
 <h3 align="center">
-  Netflix Clone
+  Log API
 </h3>
 
-<p align="center">Projeto em ReactJS, trabalhando em um clone da página de streaming do Netflix.
-Neste projeto foi consumida uma API externa do site Themoviedb.com para exibição dos filmes e séries, utilizando-se das manipulações de estados com o useState do React.</p>
+<p align="center">Projeto em Java e SpringBoot, trabalhando em cima de um sistema de logística.
+Neste projeto é realizado a construção de uma API de logística</p>
+
+<img alt="Diagrama" src="![UML](https://user-images.githubusercontent.com/89155684/148959034-886a91d7-ec72-4b27-a9b4-922dcc415fa7.png)
+"
+width="260px" />
 
 ## 🚀 Tecnologias
 
-- 💡 React
-- ⚡ Javascript
-- 🕹 Html
-- 🏗 Css 
+- 💡 Java
+- 🍃 SpringBoot
 
 ## ✋🏻 Pré-requisitos
 
-- [The Movie Database](https://www.themoviedb.org/?language=pt-BR)
+- [Spring Initializr](https://start.spring.io/)
 
 ## 📝 Licença
 
